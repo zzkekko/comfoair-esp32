@@ -79,6 +79,8 @@ where `${key}` is:
 Along with these above you can also use the `ventilation_level` key with the string `0` or `1`, `2`, `3` to set the desired fan speed level.
 There is also `set_mode` which accepts `auto` or `manual` as payload.
 
+## FORK Changes
++ Added secrets.h file example into /src directory
 
 ## Credits
 
